@@ -1,0 +1,11 @@
+<script src="https://www.gstatic.com/firebasejs/3.2.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC-d95Mklpk786OFB33M9DLJQ7hC0Vhyfo",
+    authDomain: "massive-boulder-i18n.firebaseapp.com",
+    databaseURL: "https://massive-boulder-i18n.firebaseio.com",
+    storageBucket: "massive-boulder-i18n.appspot.com",
+  };
+  firebase.initializeApp(config);
+</script>
